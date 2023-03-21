@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoveTest</string>
+    <string name = "main_title">Let\'s find out\n your love type</string>
+    <string name="question">안녕 지금부터 심리테스트 실시할게\n내가 하자는 대로 하면 된다잉\n 일단 믿어봐잉</string>
+    <string name="selection1">1.Throw it Aways</string>
+    <string name="selection2">2. 꽃에 물을 준다</string>
+    <string name="selection3">3. 가위로 자른다</string>
+    <string name="selection4">4. 드라이 플라워로 만든다.</string>
+    <string name="result">너는 자제력이 부족한 사람이야의 세부내용</string>
+    <string name="result_title">너는 잘 포기하는 사람이야</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

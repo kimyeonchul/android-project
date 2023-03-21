@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/main_fragment">
+
+    <fragment
+        android:id="@+id/main_fragment"
+        android:name="com.example.lovetest.fragment.Main_fragment"
+        android:label="fragment_main_fragment"
+        tools:layout="@layout/fragment_main_fragment" >
+        <action
+            android:id="@+id/action_main_fragment_to_question_fragment"
+            app:destination="@id/question_fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/result_fragment"
+        android:name="com.example.lovetest.fragment.Result_fragment"
+        android:label="fragment_result_fragment"
+        tools:layout="@layout/fragment_result_fragment" />
+    <fragment
+        android:id="@+id/question_fragment"
+        android:name="com.example.lovetest.fragment.Question_fragment"
+        android:label="fragment_question_fragment"
+        tools:layout="@layout/fragment_question_fragment" >
+        <action
+            android:id="@+id/action_question_fragment_to_selection_fragment"
+            app:destination="@id/selection_fragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/selection_fragment"
+        android:name="com.example.lovetest.fragment.Selection_fragment"
+        android:label="fragment_selection_fragment"
+        tools:layout="@layout/fragment_selection_fragment" >
+        <action
+            android:id="@+id/action_selection_fragment_to_result_fragment"
+            app:destination="@id/result_fragment" />
+    </fragment>
+</navigation>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hyewo/AndroidStudioProjects/mealbua/app/src/main/res/layout/activity_addcloth.xml" value="0.1" />
+        <entry key="..\:/Users/hyewo/AndroidStudioProjects/mealbua/app/src/main/res/layout/activity_combination_list.xml" value="0.1" />
+        <entry key="..\:/Users/hyewo/AndroidStudioProjects/mealbua/app/src/main/res/layout/activity_makelook.xml" value="0.1" />
+        <entry key="..\:/Users/hyewo/AndroidStudioProjects/mealbua/app/src/main/res/layout/activity_mycloset.xml" value="0.1" />
+        <entry key="..\:/Users/hyewo/AndroidStudioProjects/mealbua/app/src/main/res/layout/activity_savelook.xml" value="0.1" />
+        <entry key="..\:/Users/kvx25/Desktop/Software-Engineering/dailylook/app/src/main/res/drawable/edittex.xml" value="0.26" />
+        <entry key="..\:/Users/kvx25/Desktop/Software-Engineering/dailylook/app/src/main/res/drawable/edittext_background.xml" value="0.26" />
+        <entry key="..\:/Users/kvx25/Desktop/Software-Engineering/dailylook/app/src/main/res/layout/activity_addcloth.xml" value="0.32142857142857145" />
+        <entry key="..\:/Users/kvx25/Desktop/Software-Engineering/dailylook/app/src/main/res/layout/activity_combination_list.xml" value="0.25" />
+        <entry key="..\:/Users/kvx25/Desktop/WorkSpace/dailylook/app/src/main/res/layout/activity_addcloth.xml" value="0.25" />
+        <entry key="..\:/Users/kvx25/Desktop/WorkSpace/dailylook/app/src/main/res/layout/activity_combination_list.xml" value="0.25" />
+        <entry key="..\:/Users/kvx25/Desktop/WorkSpace/dailylook/app/src/main/res/layout/activity_makelook.xml" value="0.22" />
+        <entry key="..\:/Users/kvx25/Desktop/WorkSpace/dailylook/app/src/main/res/layout/activity_mycloset.xml" value="0.24320652173913043" />
+        <entry key="..\:/Users/kvx25/Desktop/WorkSpace/dailylook/app/src/main/res/layout/activity_savelook.xml" value="0.22" />
+        <entry key="..\:/code/android/DailyLook/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.286" />
+        <entry key="..\:/code/android/DailyLook/app/src/main/res/layout/activity_main.xml" value="0.2658514492753623" />
+        <entry key="..\:/code/android/DailyLook/app/src/main/res/layout/mycloset.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2255" />
+        <entry key="app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.2255" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2255" />
+        <entry key="app/src/main/res/layout/activity_combination_list.xml" value="0.5068435668945312" />
+        <entry key="app/src/main/res/layout/activity_combinationlist.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_hamburger.xml" value="0.19791666666666666" />
+        <entry key="app/src/main/res/layout/activity_hamburgerbar.xml" value="0.39158639216768576" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.28229166666666666" />
+        <entry key="app/src/main/res/layout/activity_mycloset.xml" value="0.2451202392578125" />
+        <entry key="app/src/main/res/layout/mycloset.xml" value="0.28871271984832836" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
